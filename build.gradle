@@ -21,7 +21,7 @@ repositories {
     // Use jcenter for resolving dependencies.
     // You can declare any Maven/Ivy/file repository here.
     jcenter()
-    maven { url 'https://jitpack.io' }
+    mavenCentral()
 }
 
 dependencies {
@@ -50,3 +50,17 @@ task sourcesJar(type: Jar, dependsOn: classes) {
 artifacts {
     archives sourcesJar
 }
+
+//install {
+//    repositories.mavenInstaller {
+//        pom.project {
+//            licenses {
+//                license {
+//                    name 'The Apache Software License, Version 2.0'
+//                    url 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+//                    distribution 'repo'
+//                }
+//            }
+//        }
+//    }
+//}

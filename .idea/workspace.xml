@@ -4,6 +4,7 @@
     <list default="true" id="ea63d1de-77f9-4ef4-bc67-1588dad586b0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -321,10 +322,11 @@
     </state>
     <state x="399" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.827/1440.-317.1920.1177@0.23.1440.827" timestamp="1581157730657" />
     <state x="399" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1580822151157" />
-    <state x="385" y="77" width="667" height="714" key="find.popup" timestamp="1581145169370">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state x="1953" y="-240" width="890" height="1018" key="find.popup" timestamp="1581255595555">
+      <screen x="1440" y="-317" width="1920" height="1177" />
     </state>
     <state x="385" y="77" width="667" height="714" key="find.popup/0.23.1440.826/1440.-317.1920.1177@0.23.1440.826" timestamp="1581145169370" />
+    <state x="1953" y="-240" width="890" height="1018" key="find.popup/0.23.1440.827/1440.-317.1920.1177@1440.-317.1920.1177" timestamp="1581255595555" />
     <state x="114" y="57" key="new project wizard" timestamp="1581155455553">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
