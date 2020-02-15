@@ -4,7 +4,19 @@
 # Ignore Gradle build output directory
 build
 
+# Ignore unnecessary file
+*.jar
+*.aar
+*.war
+
+# Not ignore gradle wrapper
+!.gradle-wrapper.jar
+
+## Ignore IntelliJ project setting files directory
 .idea
 
 # Ignore Mac auto-created file
 .DS_Store
+
+# Ignore compiled class file
+*.class
