@@ -5,3 +5,6 @@
 build
 
 .idea
+
+# Ignore Mac auto-created file
+.DS_Store
