@@ -13,6 +13,8 @@ plugins {
 
     // Apply the Maven Publish Plugin
     id 'maven-publish'
+
+    id 'maven'
 }
 
 group = 'com.github.kmgs4524'
