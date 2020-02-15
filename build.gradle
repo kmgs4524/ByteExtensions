@@ -16,23 +16,21 @@ plugins {
 }
 
 group = 'com.github.kmgs4524'
-
 repositories {
     // Use jcenter for resolving dependencies.
     // You can declare any Maven/Ivy/file repository here.
     jcenter()
     mavenCentral()
-    maven { url "https://jitpack.io" }
+//    maven { url "https://jitpack.io" }
 }
 
 dependencies {
+
     // Align versions of all Kotlin components
     implementation platform('org.jetbrains.kotlin:kotlin-bom')
 
     // Use the Kotlin JDK 8 standard library.
     implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
-
-    implementation 'com.github.User:Repo:Tag'
 
     // Use the Kotlin test library.
     testImplementation 'org.jetbrains.kotlin:kotlin-test'
