@@ -1,5 +1,5 @@
 # ByteExtensions
-提供有關位元運算常用的 function
+提供位元運算常用的 function
 ## Gradle Setup
 build.gradle(project)
 ```
